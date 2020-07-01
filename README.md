@@ -4,249 +4,493 @@ The Web Files category includes files related to websites and Web servers. These
 
 Common Web file extensions include .HTML, .ASP, .PHP, and .CSS.
 
-| File Extension	|	File Type | 
 
-.DHTML	|	Dynamic HTML file
-.ASAX	|	ASP.NET Server Application File
-.BTAPP	|	uTorrent App
-.XBEL	|	XBEL Bookmarks File
-.FWTEMPLATE	|	Freeway Template
-.MJS	|	Node.js ES Module File
-.A5W	|	Alpha Five Webpage File
-.CRT	|	Security Certificate
-.BML	|	Bean Markup Language File
-.P7C	|	PKCS #7 Certificate File
-.FMP	|	123 Flash Menu Project
-.CSS	|	Cascading Style Sheet
-.VRT	|	Virtual World
-.JSPA	|	Java Servlet Alias
-.KIT	|	CodeKit File
-.SPC	|	Software Publisher Certificate File
-.WEBSITE	|	Internet Explorer Pinned Site Shortcut
-.DLL	|	DLL Dynamic Web Page
-.SSP	|	Scala Server Page
-.ASCX	|	ASP.NET User Control File
-.XUL	|	XML User Interface Language File
-.WHTT	|	HTTrack Website Copier File
-.PHP	|	PHP Source Code File
-.SCSS	|	Sass Cascading Style Sheet
-.DOWNLOAD	|	Partially Downloaded File
-.CSHTML	|	ASP.NET Razor Web Page
-.DWT	|	Dreamweaver Webpage Template
-.JSON	|	JavaScript Object Notation File
-.DCR	|	Shockwave Media File
-.JS	|	JavaScript File
-.ZHTML	|	RabbitWeb Webpage
-.WEBBOOKMARK	|	Safari Web Bookmark File
-.CODASITE	|	Coda Site File
-.SHTML	|	Server Side Include HTML File
-.STC	|	Contribute Connection Key File
-.CHA	|	IRC Chat Configuration File
-.GNE	|	Flickr Web Page
-.ZHTML	|	Secure IE Zipped HTML File
-.P7B	|	PKCS #7 Certificate File
-.SITES2	|	iWeb Site Design Project
-.AWM	|	AllWebMenus Project File
-.ARO	|	SteelArrow Web Application File
-.STML	|	SSI HTML File
-.OBML16	|	Opera Mini Saved Web Page
-.SITES	|	iWeb Site Design Project
-.DML	|	DynaScript File
-.FWTEMPLATEB	|	Freeway Template Bundle
-.JSS	|	JavaScript Style Sheet File
-.WIDGET	|	HybridJava Widget
-.RJS	|	Ruby Javascript File
-.VSDISCO	|	DISCO Dynamic Discovery Document
-.HTACCESS	|	Apache HTACCESS File
-.CHM	|	Compiled HTML Help File
-.DAP	|	Access Data Access Page
-.A4P	|	A4Desk Pro Project File
-.WSDL	|	Web Services Description Language File
-.URL	|	Internet Shortcut
-.FCGI	|	FastCGI File
-.HTM	|	Hypertext Markup Language File
-.PAC	|	Proxy Auto-Config File
-.OAM	|	Adobe Edge Animate Widget File
-.SITE	|	GoLive Website Project File
-.ASPX	|	Active Server Page Extended File
-.ZUL	|	ZK User Interface File
-.GSP	|	IMail Error Message File
-.COMPRESSED	|	WordCompress Compacted Web File
-.PEM	|	Privacy Enhanced Mail Certificate
-.SEAM	|	Seam Framework Java Servlet File
-.HTML	|	Hypertext Markup Language File
-.SVR	|	Compressed Virtual World
-.DOCHTML	|	Microsoft Word HTML Document
-.ASA	|	ASP Configuration File
-.CRL	|	Certificate Revocation List File
-.APPCACHE	|	HTML5 Cache Manifest File
-.WBS	|	WebBlender Project File
-.EWP	|	Ewisoft Website Project File
-.PRO	|	Adobe Proto Design File
-.XHTM	|	Extensible Hypertext Markup Language Document
-.HAR	|	HTTP Archive FIle
-.MASTER	|	ASP.NET Master Page
-.ASR	|	ActionScript Remote Document
-.ASP	|	Active Server Page
-.AP	|	Active Page
-.DISCO	|	DISCO Discovery Document
-.EPIBRW	|	Web File Location
-.RSS	|	Rich Site Summary
-.VDW	|	Visio Web Drawing
-.FWP	|	Microsoft Expression Web Package
-.WEB	|	Xara Web Document
-.XPD	|	XML Pipeline Document
-.GSP	|	Groovy Server Page
-.ASHX	|	ASP.NET Web Handler File
-.WEBLOC	|	macOS Website Location
-.HTC	|	HTML Component File
-.PHTML	|	PHP Web Page
-.CSR	|	Certificate Signing Request File
-.XHT	|	XHTML File
-.DER	|	DER Certificate File
-.OBML	|	Opera Mini Saved Web Page
-.OPML	|	Outline Processor Markup Language File
-.CMS	|	Content Management System
-.BROWSER	|	ASP.NET Browser Definition File
-.BOK	|	ProStores Dynamic Web Page
-.QF	|	Qompose Web Page Template
-.BR	|	Brotli Compressed File
-.TPL	|	HTTP File Server Template
-.MHTML	|	MIME HTML File
-.MAFF	|	Mozilla Archive Format File
-.UHTML	|	UC Browser Saved Webpage
-.WPP	|	WebPlus Project File
-.CER	|	Internet Security Certificate
-.RHTML	|	Ruby HTML Web Page
-.PPTMHTML	|	Microsoft PowerPoint MIME HTML Presentation
-.NZB	|	NewzBin Usenet Index File
-.DO	|	Java Servlet
-.CON	|	Concept Application Source File
-.ALX	|	ActiveX Layout Control File
-.SASS	|	Syntactically Awesome StyleSheets File
-.JNLP	|	Java Web Start File
-.AXD	|	ASP.NET Web Handler File
-.ADR	|	Opera Bookmarks File
-.SHT	|	HTML File with Server Side Includes
-.SHTM	|	HTML Server Side Include File
-.HYPERESOURCES	|	Hype Resources Folder
-.OLP	|	Office Live Package
-.PHP4	|	PHP 4 Web Page
-.STRM	|	Stream Location File
-.SRF	|	Server Response File
-.P12	|	Personal Information Exchange File
-.CHAT	|	IRC Chat Configuration File
-.DBM	|	ColdFusion Server File
-.JSPX	|	XML Java Server Page
-.XSS	|	XML Style Sheet
-.VRML	|	VRML File
-.JSP	|	Java Server Page
-.MHT	|	MHTML Web Archive
-.TVVI	|	TitanTV Television Listing File
-.HDML	|	Handheld Device Markup Language File
-.WML	|	Wireless Markup Language File
-.SDB	|	SocialDecks Blog File
-.ITMS	|	iTunes Music Store Link File
-.XFDL	|	XFDL File
-.CFM	|	ColdFusion Markup File
-.UCF	|	WebEx Media File
-.PRF	|	PICS Rules File
-.DOTHTML	|	Microsoft Word HTML Document Template
-.PHP2	|	PHP 2 Web Page
-.SITEMAP	|	ASP.NET Site Map File
-.XHTML	|	Extensible Hypertext Markup Language File
-.WRF	|	WebEx Recording
-.IQY	|	Internet Query
-.EDGE	|	Adobe Edge Project File
-.FREEWAY	|	Freeway Document
-.AEX	|	Alpha Five Compiled Global Functions File
-.HXS	|	Help 2 Compiled Help File
-.WDGT	|	Opera Widget
-.QBO	|	QuickBooks Online Bank Statement File
-.CSP	|	Concept Server Page
-.HYPE	|	Hype Document
-.PUB	|	Public Key File
-.WEBARCHIVE	|	Safari Web Archive
-.JHTML	|	Java HTML Web Page
-.SVC	|	WCF Web Service File
-.RW3	|	RapidWeaver 3 Site File
-.PAGE	|	HybridJava Web Page
-.XBL	|	Extensible Binding Language File
-.STL	|	Certificate Trust List
-.PHTM	|	PHP-Based Web Page
-.P7	|	PKCS #7 Digital Certificate File
-.ESPROJ	|	Espresso Project File
-.WBXML	|	WAP Binary XML File
-.OGNC	|	Dynamic Web Page
-.SPARKLE	|	Sparkle Website Project
-.ASMX	|	ASP.NET Web Service File
-.VBD	|	Visual Basic ActiveX Document
-.RWSW	|	RapidWeaver Site File
-.HYPETEMPLATE	|	Hype Document Template
-.WOA	|	WebObjects Application
-.BWP	|	BuRg3r Web Page
-.MUSE	|	Adobe Muse Website Project
-.OBML15	|	Opera Mini Saved Web Page
-.HYPESYMBOL	|	Hype Symbol File
-.VBHTML	|	ASP.NET Razor Web Page
-.RT	|	RealText Streaming Text File
-.FWTB	|	Freeway Template Bundle
-.ATT	|	Web Form Post Data File
-.ZVZ	|	Possible Virus File
-.PSP	|	PL/SQL Server Page
-.ATOM	|	Atom Syndication Format
-.MSPX	|	Microsoft ASP.NET Web Page
-.TVPI	|	TitanTV Television Listing File
-.WGP	|	Web Gallery Project
-.MVC	|	MivaScript Compiled File
-.JWS	|	Java Web Services File
-.DISCOMAP	|	DISCO Discovery Output File
-.HDM	|	HDML File
-.WEBHISTORY	|	Safari Web History File
-.SWZ	|	Adobe Flash Player Cache File
-.WEBARCHIVEXML	|	Android Web Browser Archive
-.LBC	|	Cloaked Affiliate Link Builder Saved Link
-.ECE	|	Escenic Dynamic Web Page
-.CDF	|	Channel Definition Format
-.DOCMHTML	|	Microsoft Word MIME HTML Document
-.RFLW	|	Edge Reflow Data File
-.HTX	|	HTML Extension File
-.IDC	|	Internet Database Connector File
-.PHP3	|	PHP 3 Web Page
-.XWS	|	Xara Web Designer Graphic
-.RWP	|	RapidWeaver Package
-.WGT	|	Opera Widget File
-.PPTHTML	|	PowerPoint HTML Presentation
-.LASSO	|	Lasso Database-Driven Web Page
-.MAP	|	Image Map
-.SAVEDDECK	|	Nokia Saved Web Page
-.LESS	|	LESS Style Sheet
-.CCBJS	|	CopperCube JavaScript File
-.WN	|	WN Web File
-.PHP5	|	PHP 5 Web Page
-.AN	|	Adobe Edge Animate Project File
-.NOD	|	NetObjects Fusion File
-.VLP	|	LiveSite Project
-.STP	|	SharePoint Template
-.CPHD	|	CloudChan Pre-processed Hypertext Document
-.QBX	|	Blocks Landing Page File
-.MVR	|	IBM HotMedia Multimedia File
-.SUCK	|	SiteSucker Website File
-.OTH	|	OpenDocument HTML Template
-.IWDGT	|	iWeb Widget File
-.CFML	|	ColdFusion Markup Language File
-.ITPC	|	iTunes Podcast Link File
-.PTW	|	AutoCAD Publish To Web File
-.JVS	|	JavaScript Proxy Autoconfig File
-.MAPX	|	Mapjects Client Webparts File
-.NODE	|	Node.js Binary Addon File
-.WPX	|	WebPlus Project Template
-.RWTHEME	|	RapidWeaver Theme
-.JST	|	JavaServer Page Document
-.MOZ	|	Mozilla Cache File
-.STM	|	SSI Web Page
-.NXG	|	eSite Builder NXG Web Page
-.ZFO	|	XSL-FO Online Form
-.QRM	|	Qworum Message File
-.CPG	|	Cool Page Project File
-.JCZ	|	Liquid Motion Animation
+	|	File Extension	|	File Type	|
+
+	|	.DHTML	|	Dynamic HTML file	|
+
+	|	.ASAX	|	ASP.NET Server Application File	|
+
+	|	.BTAPP	|	uTorrent App	|
+
+	|	.XBEL	|	XBEL Bookmarks File	|
+
+	|	.FWTEMPLATE	|	Freeway Template	|
+
+	|	.MJS	|	Node.js ES Module File	|
+
+	|	.A5W	|	Alpha Five Webpage File	|
+
+	|	.CRT	|	Security Certificate	|
+
+	|	.BML	|	Bean Markup Language File	|
+
+	|	.P7C	|	PKCS #7 Certificate File	|
+
+	|	.FMP	|	123 Flash Menu Project	|
+
+	|	.CSS	|	Cascading Style Sheet	|
+
+	|	.VRT	|	Virtual World	|
+
+	|	.JSPA	|	Java Servlet Alias	|
+
+	|	.KIT	|	CodeKit File	|
+
+	|	.SPC	|	Software Publisher Certificate File	|
+
+	|	.WEBSITE	|	Internet Explorer Pinned Site Shortcut	|
+
+	|	.DLL	|	DLL Dynamic Web Page	|
+
+	|	.SSP	|	Scala Server Page	|
+
+	|	.ASCX	|	ASP.NET User Control File	|
+
+	|	.XUL	|	XML User Interface Language File	|
+
+	|	.WHTT	|	HTTrack Website Copier File	|
+
+	|	.PHP	|	PHP Source Code File	|
+
+	|	.SCSS	|	Sass Cascading Style Sheet	|
+
+	|	.DOWNLOAD	|	Partially Downloaded File	|
+
+	|	.CSHTML	|	ASP.NET Razor Web Page	|
+
+	|	.DWT	|	Dreamweaver Webpage Template	|
+
+	|	.JSON	|	JavaScript Object Notation File	|
+
+	|	.DCR	|	Shockwave Media File	|
+
+	|	.JS	|	JavaScript File	|
+
+	|	.ZHTML	|	RabbitWeb Webpage	|
+
+	|	.WEBBOOKMARK	|	Safari Web Bookmark File	|
+
+	|	.CODASITE	|	Coda Site File	|
+
+	|	.SHTML	|	Server Side Include HTML File	|
+
+	|	.STC	|	Contribute Connection Key File	|
+
+	|	.CHA	|	IRC Chat Configuration File	|
+
+	|	.GNE	|	Flickr Web Page	|
+
+	|	.ZHTML	|	Secure IE Zipped HTML File	|
+
+	|	.P7B	|	PKCS #7 Certificate File	|
+
+	|	.SITES2	|	iWeb Site Design Project	|
+
+	|	.AWM	|	AllWebMenus Project File	|
+
+	|	.ARO	|	SteelArrow Web Application File	|
+
+	|	.STML	|	SSI HTML File	|
+
+	|	.OBML16	|	Opera Mini Saved Web Page	|
+
+	|	.SITES	|	iWeb Site Design Project	|
+
+	|	.DML	|	DynaScript File	|
+
+	|	.FWTEMPLATEB	|	Freeway Template Bundle	|
+
+	|	.JSS	|	JavaScript Style Sheet File	|
+
+	|	.WIDGET	|	HybridJava Widget	|
+
+	|	.RJS	|	Ruby Javascript File	|
+
+	|	.VSDISCO	|	DISCO Dynamic Discovery Document	|
+
+	|	.HTACCESS	|	Apache HTACCESS File	|
+
+	|	.CHM	|	Compiled HTML Help File	|
+
+	|	.DAP	|	Access Data Access Page	|
+
+	|	.A4P	|	A4Desk Pro Project File	|
+
+	|	.WSDL	|	Web Services Description Language File	|
+
+	|	.URL	|	Internet Shortcut	|
+
+	|	.FCGI	|	FastCGI File	|
+
+	|	.HTM	|	Hypertext Markup Language File	|
+
+	|	.PAC	|	Proxy Auto-Config File	|
+
+	|	.OAM	|	Adobe Edge Animate Widget File	|
+
+	|	.SITE	|	GoLive Website Project File	|
+
+	|	.ASPX	|	Active Server Page Extended File	|
+
+	|	.ZUL	|	ZK User Interface File	|
+
+	|	.GSP	|	IMail Error Message File	|
+
+	|	.COMPRESSED	|	WordCompress Compacted Web File	|
+
+	|	.PEM	|	Privacy Enhanced Mail Certificate	|
+
+	|	.SEAM	|	Seam Framework Java Servlet File	|
+
+	|	.HTML	|	Hypertext Markup Language File	|
+
+	|	.SVR	|	Compressed Virtual World	|
+
+	|	.DOCHTML	|	Microsoft Word HTML Document	|
+
+	|	.ASA	|	ASP Configuration File	|
+
+	|	.CRL	|	Certificate Revocation List File	|
+
+	|	.APPCACHE	|	HTML5 Cache Manifest File	|
+
+	|	.WBS	|	WebBlender Project File	|
+
+	|	.EWP	|	Ewisoft Website Project File	|
+
+	|	.PRO	|	Adobe Proto Design File	|
+
+	|	.XHTM	|	Extensible Hypertext Markup Language Document	|
+
+	|	.HAR	|	HTTP Archive FIle	|
+
+	|	.MASTER	|	ASP.NET Master Page	|
+
+	|	.ASR	|	ActionScript Remote Document	|
+
+	|	.ASP	|	Active Server Page	|
+
+	|	.AP	|	Active Page	|
+
+	|	.DISCO	|	DISCO Discovery Document	|
+
+	|	.EPIBRW	|	Web File Location	|
+
+	|	.RSS	|	Rich Site Summary	|
+
+	|	.VDW	|	Visio Web Drawing	|
+
+	|	.FWP	|	Microsoft Expression Web Package	|
+
+	|	.WEB	|	Xara Web Document	|
+
+	|	.XPD	|	XML Pipeline Document	|
+
+	|	.GSP	|	Groovy Server Page	|
+
+	|	.ASHX	|	ASP.NET Web Handler File	|
+
+	|	.WEBLOC	|	macOS Website Location	|
+
+	|	.HTC	|	HTML Component File	|
+
+	|	.PHTML	|	PHP Web Page	|
+
+	|	.CSR	|	Certificate Signing Request File	|
+
+	|	.XHT	|	XHTML File	|
+
+	|	.DER	|	DER Certificate File	|
+
+	|	.OBML	|	Opera Mini Saved Web Page	|
+
+	|	.OPML	|	Outline Processor Markup Language File	|
+
+	|	.CMS	|	Content Management System	|
+
+	|	.BROWSER	|	ASP.NET Browser Definition File	|
+
+	|	.BOK	|	ProStores Dynamic Web Page	|
+
+	|	.QF	|	Qompose Web Page Template	|
+
+	|	.BR	|	Brotli Compressed File	|
+
+	|	.TPL	|	HTTP File Server Template	|
+
+	|	.MHTML	|	MIME HTML File	|
+
+	|	.MAFF	|	Mozilla Archive Format File	|
+
+	|	.UHTML	|	UC Browser Saved Webpage	|
+
+	|	.WPP	|	WebPlus Project File	|
+
+	|	.CER	|	Internet Security Certificate	|
+
+	|	.RHTML	|	Ruby HTML Web Page	|
+
+	|	.PPTMHTML	|	Microsoft PowerPoint MIME HTML Presentation	|
+
+	|	.NZB	|	NewzBin Usenet Index File	|
+
+	|	.DO	|	Java Servlet	|
+
+	|	.CON	|	Concept Application Source File	|
+
+	|	.ALX	|	ActiveX Layout Control File	|
+
+	|	.SASS	|	Syntactically Awesome StyleSheets File	|
+
+	|	.JNLP	|	Java Web Start File	|
+
+	|	.AXD	|	ASP.NET Web Handler File	|
+
+	|	.ADR	|	Opera Bookmarks File	|
+
+	|	.SHT	|	HTML File with Server Side Includes	|
+
+	|	.SHTM	|	HTML Server Side Include File	|
+
+	|	.HYPERESOURCES	|	Hype Resources Folder	|
+
+	|	.OLP	|	Office Live Package	|
+
+	|	.PHP4	|	PHP 4 Web Page	|
+
+	|	.STRM	|	Stream Location File	|
+
+	|	.SRF	|	Server Response File	|
+
+	|	.P12	|	Personal Information Exchange File	|
+
+	|	.CHAT	|	IRC Chat Configuration File	|
+
+	|	.DBM	|	ColdFusion Server File	|
+
+	|	.JSPX	|	XML Java Server Page	|
+
+	|	.XSS	|	XML Style Sheet	|
+
+	|	.VRML	|	VRML File	|
+
+	|	.JSP	|	Java Server Page	|
+
+	|	.MHT	|	MHTML Web Archive	|
+
+	|	.TVVI	|	TitanTV Television Listing File	|
+
+	|	.HDML	|	Handheld Device Markup Language File	|
+
+	|	.WML	|	Wireless Markup Language File	|
+
+	|	.SDB	|	SocialDecks Blog File	|
+
+	|	.ITMS	|	iTunes Music Store Link File	|
+
+	|	.XFDL	|	XFDL File	|
+
+	|	.CFM	|	ColdFusion Markup File	|
+
+	|	.UCF	|	WebEx Media File	|
+
+	|	.PRF	|	PICS Rules File	|
+
+	|	.DOTHTML	|	Microsoft Word HTML Document Template	|
+
+	|	.PHP2	|	PHP 2 Web Page	|
+
+	|	.SITEMAP	|	ASP.NET Site Map File	|
+
+	|	.XHTML	|	Extensible Hypertext Markup Language File	|
+
+	|	.WRF	|	WebEx Recording	|
+
+	|	.IQY	|	Internet Query	|
+
+	|	.EDGE	|	Adobe Edge Project File	|
+
+	|	.FREEWAY	|	Freeway Document	|
+
+	|	.AEX	|	Alpha Five Compiled Global Functions File	|
+
+	|	.HXS	|	Help 2 Compiled Help File	|
+
+	|	.WDGT	|	Opera Widget	|
+
+	|	.QBO	|	QuickBooks Online Bank Statement File	|
+
+	|	.CSP	|	Concept Server Page	|
+
+	|	.HYPE	|	Hype Document	|
+
+	|	.PUB	|	Public Key File	|
+
+	|	.WEBARCHIVE	|	Safari Web Archive	|
+
+	|	.JHTML	|	Java HTML Web Page	|
+
+	|	.SVC	|	WCF Web Service File	|
+
+	|	.RW3	|	RapidWeaver 3 Site File	|
+
+	|	.PAGE	|	HybridJava Web Page	|
+
+	|	.XBL	|	Extensible Binding Language File	|
+
+	|	.STL	|	Certificate Trust List	|
+
+	|	.PHTM	|	PHP-Based Web Page	|
+
+	|	.P7	|	PKCS #7 Digital Certificate File	|
+
+	|	.ESPROJ	|	Espresso Project File	|
+
+	|	.WBXML	|	WAP Binary XML File	|
+
+	|	.OGNC	|	Dynamic Web Page	|
+
+	|	.SPARKLE	|	Sparkle Website Project	|
+
+	|	.ASMX	|	ASP.NET Web Service File	|
+
+	|	.VBD	|	Visual Basic ActiveX Document	|
+
+	|	.RWSW	|	RapidWeaver Site File	|
+
+	|	.HYPETEMPLATE	|	Hype Document Template	|
+
+	|	.WOA	|	WebObjects Application	|
+
+	|	.BWP	|	BuRg3r Web Page	|
+
+	|	.MUSE	|	Adobe Muse Website Project	|
+
+	|	.OBML15	|	Opera Mini Saved Web Page	|
+
+	|	.HYPESYMBOL	|	Hype Symbol File	|
+
+	|	.VBHTML	|	ASP.NET Razor Web Page	|
+
+	|	.RT	|	RealText Streaming Text File	|
+
+	|	.FWTB	|	Freeway Template Bundle	|
+
+	|	.ATT	|	Web Form Post Data File	|
+
+	|	.ZVZ	|	Possible Virus File	|
+
+	|	.PSP	|	PL/SQL Server Page	|
+
+	|	.ATOM	|	Atom Syndication Format	|
+
+	|	.MSPX	|	Microsoft ASP.NET Web Page	|
+
+	|	.TVPI	|	TitanTV Television Listing File	|
+
+	|	.WGP	|	Web Gallery Project	|
+
+	|	.MVC	|	MivaScript Compiled File	|
+
+	|	.JWS	|	Java Web Services File	|
+
+	|	.DISCOMAP	|	DISCO Discovery Output File	|
+
+	|	.HDM	|	HDML File	|
+
+	|	.WEBHISTORY	|	Safari Web History File	|
+
+	|	.SWZ	|	Adobe Flash Player Cache File	|
+
+	|	.WEBARCHIVEXML	|	Android Web Browser Archive	|
+
+	|	.LBC	|	Cloaked Affiliate Link Builder Saved Link	|
+
+	|	.ECE	|	Escenic Dynamic Web Page	|
+
+	|	.CDF	|	Channel Definition Format	|
+
+	|	.DOCMHTML	|	Microsoft Word MIME HTML Document	|
+
+	|	.RFLW	|	Edge Reflow Data File	|
+
+	|	.HTX	|	HTML Extension File	|
+
+	|	.IDC	|	Internet Database Connector File	|
+
+	|	.PHP3	|	PHP 3 Web Page	|
+
+	|	.XWS	|	Xara Web Designer Graphic	|
+
+	|	.RWP	|	RapidWeaver Package	|
+
+	|	.WGT	|	Opera Widget File	|
+
+	|	.PPTHTML	|	PowerPoint HTML Presentation	|
+
+	|	.LASSO	|	Lasso Database-Driven Web Page	|
+
+	|	.MAP	|	Image Map	|
+
+	|	.SAVEDDECK	|	Nokia Saved Web Page	|
+
+	|	.LESS	|	LESS Style Sheet	|
+
+	|	.CCBJS	|	CopperCube JavaScript File	|
+
+	|	.WN	|	WN Web File	|
+
+	|	.PHP5	|	PHP 5 Web Page	|
+
+	|	.AN	|	Adobe Edge Animate Project File	|
+
+	|	.NOD	|	NetObjects Fusion File	|
+
+	|	.VLP	|	LiveSite Project	|
+
+	|	.STP	|	SharePoint Template	|
+
+	|	.CPHD	|	CloudChan Pre-processed Hypertext Document	|
+
+	|	.QBX	|	Blocks Landing Page File	|
+
+	|	.MVR	|	IBM HotMedia Multimedia File	|
+
+	|	.SUCK	|	SiteSucker Website File	|
+
+	|	.OTH	|	OpenDocument HTML Template	|
+
+	|	.IWDGT	|	iWeb Widget File	|
+
+	|	.CFML	|	ColdFusion Markup Language File	|
+
+	|	.ITPC	|	iTunes Podcast Link File	|
+
+	|	.PTW	|	AutoCAD Publish To Web File	|
+
+	|	.JVS	|	JavaScript Proxy Autoconfig File	|
+
+	|	.MAPX	|	Mapjects Client Webparts File	|
+
+	|	.NODE	|	Node.js Binary Addon File	|
+
+	|	.WPX	|	WebPlus Project Template	|
+
+	|	.RWTHEME	|	RapidWeaver Theme	|
+
+	|	.JST	|	JavaServer Page Document	|
+
+	|	.MOZ	|	Mozilla Cache File	|
+
+	|	.STM	|	SSI Web Page	|
+
+	|	.NXG	|	eSite Builder NXG Web Page	|
+
+	|	.ZFO	|	XSL-FO Online Form	|
+
+	|	.QRM	|	Qworum Message File	|
+
+	|	.CPG	|	Cool Page Project File	|
+
+	|	.JCZ	|	Liquid Motion Animation	|
