@@ -4,6 +4,8 @@ The Web Files category includes files related to websites and Web servers. These
 
 Common Web file extensions include .HTML, .ASP, .PHP, and .CSS.
 
+***reference***(https://fileinfo.com/filetypes/web)
+
 
 	|	File Extension	|	File Type	|
 
