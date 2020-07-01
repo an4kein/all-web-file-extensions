@@ -4,7 +4,7 @@ The Web Files category includes files related to websites and Web servers. These
 
 Common Web file extensions include .HTML, .ASP, .PHP, and .CSS.
 
-File Extension	|	File Type
+| File Extension	|	File Type | 
 .DHTML	|	Dynamic HTML file
 .ASAX	|	ASP.NET Server Application File
 .BTAPP	|	uTorrent App
